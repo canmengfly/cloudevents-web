@@ -1,0 +1,6 @@
+# Hugo-generated assets
+public/
+resources/
+
+# npm/Yarn assets
+node_modules/
